@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Isaias</h1>
-<h3 align="center">A developer</h3>
+<h1 align="left">Hi 👋, I'm Isaias</h1>
+<h3 align="left">A developer</h3>
 
 - 🔭 I’m currently working on **EycareHealth sturtup**
 
